@@ -6,4 +6,6 @@ void main()
     printf("Hi !!!");
     printf("Hi 1111 !!!");
     printf("Hi 2222 !!!");
+    
+    printf("This is homework01");
 }
